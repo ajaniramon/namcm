@@ -22,7 +22,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"namcm" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}

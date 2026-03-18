@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "namcm:item/chunk_depleter"
+  }
+}
