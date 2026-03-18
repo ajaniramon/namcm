@@ -1,6 +1,6 @@
 # NAMCM
 
-**Not Another Chunk Mod.**
+**Not Another Minecraft Chunk Mod.**
 
 Except, technically, it is. But it is also the beginning of a heavier-duty profiling and experimentation toolkit for Minecraft worlds running on Fabric.
 
